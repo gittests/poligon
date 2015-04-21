@@ -57,7 +57,8 @@ class FlipDownCommand implements Command {
       theLight.turnOff();
    }
 }
- 
+
+
 /* The test class or client */
 public class CommandPattern {
    public static void main(String[] args){
